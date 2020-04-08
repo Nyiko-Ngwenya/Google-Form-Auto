@@ -27,6 +27,6 @@ class Automate:
         sleep(3)
         self.driver.find_element_by_xpath('/html/body/div/div[2]/form/div/div/div[2]/div[4]/div/div[2]/div[1]/div[2]/textarea').send_keys('No problems')
         sleep(3)
-        #self.driver.find_element_by_xpath('/html/body/div/div[2]/form/div/div/div[3]/div[2]/div/div/span/span').click()
+        self.driver.find_element_by_xpath('/html/body/div/div[2]/form/div/div/div[3]/div[2]/div/div/span/span').click()
     
-start = Automate(username,username)
+start = Automate(username,password)

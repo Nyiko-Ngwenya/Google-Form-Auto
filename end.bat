@@ -1,2 +1,2 @@
-C:\new_software\finance\Scripts\python.exe "C:/new_software/Web Scraping/Web-Scraping/Selenium Web Scraping/scraping-lazada.py"
+C:\Users\Nyiko\AppData\Local\Programs\Python\Python37-32\python.exe "C:\Users\Nyiko\Desktop\Google-Form-Auto/auto_end_of_day.py"
 pause
